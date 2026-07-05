@@ -27,39 +27,6 @@ When a customer passes away, their family is often left financially paralyzed—
 ![Signal Detection Preview](C:\Users\Dell\.gemini\antigravity-ide\brain\37e8bff1-563a-469d-b671-2450ae7e1f87\signal_detection_preview_1783265477809.png)
 *AI detecting behavioral signals and explaining its reasoning before initiating the bereavement protocol.*
 
-## Getting Started
-
-### Prerequisites
-- Node.js (v18 or higher)
-- npm
-
-### Installation
-
-1. Clone the repository
-2. Install frontend dependencies:
-   ```bash
-   cd frontend
-   npm install
-   ```
-3. Install backend dependencies:
-   ```bash
-   cd backend
-   npm install
-   ```
-
-### Running Locally
-
-1. Start the frontend development server:
-   ```bash
-   cd frontend
-   npm run dev
-   ```
-2. Start the backend API:
-   ```bash
-   cd backend
-   node server.js
-   ```
-
 ## Business Impact
 - **Zero Customer Churn**: Eliminates the frustration that causes bereaved families to switch banks.
 - **Organic Acquisition**: Surviving family members naturally become loyal, full-service SBI customers.
