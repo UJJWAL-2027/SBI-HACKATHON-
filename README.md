@@ -43,3 +43,12 @@ Contributions, suggestions, and bug reports are welcome! If you'd like to improv
 
 Let's build a more compassionate and accessible financial bereavement experience together that helps everyone.
 
+🔒 Privacy, Security & Ethical AI
+
+The Grief Navigator is designed with a strong focus on customer privacy, data protection, and ethical AI practices.
+1) Privacy First: Sensitive customer and nominee information should be handled securely.
+2) Human Oversight: Important decisions and claim-related actions should be subject to appropriate human review.
+3) Responsible AI: Bereavement signals should be treated as indicators for further review, not definitive proof of a customer's death.
+4) Compassionate Communication: All customer interactions should prioritize empathy, dignity, and respect for grieving families.
+5) Data Integrity: Documents and transaction records should be handled carefully to maintain accuracy and consistency.
+
