@@ -32,3 +32,14 @@ When a customer passes away, their family is often left financially paralyzed—
 - **Organic Acquisition**: Surviving family members naturally become loyal, full-service SBI customers.
 - **First-Mover Advantage**: No other major bank in India proactively solves this systemic issue.
 - **SaaS Potential**: The succession automation engine can be patented and licensed to mutual funds and insurance firms.
+ 
+## 🤝 Contributing
+
+Contributions, suggestions, and bug reports are welcome! If you'd like to improve The Grief Navigator, feel free to open an issue or submit a pull request.
+- Fork the repository.
+- Create a new branch for your changes.
+- Commit your changes with a descriptive message.
+- Open a pull request explaining your improvements.
+
+Let's build a more compassionate and accessible financial bereavement experience together.
+
