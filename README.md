@@ -41,5 +41,5 @@ Contributions, suggestions, and bug reports are welcome! If you'd like to improv
 - Commit your changes with a descriptive message.
 - Open a pull request explaining your improvements.
 
-Let's build a more compassionate and accessible financial bereavement experience together.
+Let's build a more compassionate and accessible financial bereavement experience together that helps everyone.
 
